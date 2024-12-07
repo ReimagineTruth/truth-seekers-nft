@@ -1,1 +1,25 @@
 touch style.css
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+.card {
+    border: 1px solid #ccc;
+    margin: 20px;
+    padding: 15px;
+    background-color: #fff;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+}
+
+h3 {
+    font-size: 18px;
+    font-weight: bold;
+}
+
