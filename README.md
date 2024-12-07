@@ -1,1 +1,2 @@
-# truth-seekers-nft
+touch README.md
+
