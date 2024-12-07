@@ -1,1 +1,17 @@
 touch cards/cards.json
+[
+  {
+    "id": 1,
+    "name": "Truth Seeker #1",
+    "rarity": "Common",
+    "image": "https://i.ibb.co/1mJM8ns/Image-7.png",
+    "serial": "#1"
+  },
+  {
+    "id": 2,
+    "name": "Truth Seeker #2",
+    "rarity": "Rare",
+    "image": "https://i.ibb.co/zbjm89d/Image-4.png",
+    "serial": "#2"
+  }
+]
